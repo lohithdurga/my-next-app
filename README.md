@@ -1,8 +1,3 @@
-Got it! 😎 You want a **detailed explanation/report** that you can put inside the **README.txt** file in your GitHub repo so the interviewer can read it and understand your work.
-
-Here’s a professional, clear, human-readable version you can directly paste into your **README.txt**:
-
----
 
 # DevOps Assessment - Next.js Docker & Kubernetes Deployment
 
@@ -138,7 +133,3 @@ minikube service nextjs-service --url
 **Email:** [Your email here]
 
 ---
-
-If you want, I can also **write a super-short version** specifically for the **README.txt file inside the public folder** that is **less technical and easy for the interviewer to read quickly** while keeping all your work highlighted.
-
-Do you want me to do that too?
